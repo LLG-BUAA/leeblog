@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+# Congrathlations!
 
-You can use the [editor on GitHub](https://github.com/LLG-BUAA/leeblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+There is my first personal blog!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to My Pages
+
+I'm just a common student from [BeiHang University](https://www.buaa.edu.cn/),you an also say the HUAA.
+
+As you can see,it's such a simple blog with few atractive elements,and I'm just an odinary beings with little knownledge of git. 
+
+Here lies so many things--study,friends,social work etc,to copy with. It's just a kind of entertainment for me. So, the result is NOT my cake. I just enjoy the feeling of gain new knowledge. It's my FAV,of course.
+
+## I'm new here
+
+Below are some useful inf for me to master this project. I leave them still here!
 
 ### Markdown
 
@@ -30,7 +40,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LLG-BUAA/leeblog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LLG-BUAA/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
